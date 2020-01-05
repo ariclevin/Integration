@@ -1,0 +1,43 @@
+﻿Uninstalling assembly 'D:\Libraries\Development\SBSWDDListener\SBSWDDListener\SBSWDDListener\bin\Debug\CDSWDXListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Libraries\Development\SBSWDDListener\SBSWDDListener\SBSWDDListener\bin\Debug\CDSWDXListener.InstallLog
+   assemblypath = D:\Libraries\Development\SBSWDDListener\SBSWDDListener\SBSWDDListener\bin\Debug\CDSWDXListener.exe
+Removing EventLog source SBSWDDListenerService.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.InstallLog
+   assemblypath = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe
+Installing service SBSWDDListenerService...
+Service SBSWDDListenerService has been successfully installed.
+Creating EventLog source SBSWDDListenerService in log Application...
+Committing assembly 'D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.InstallLog
+   assemblypath = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe
+Uninstalling assembly 'D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.InstallLog
+   assemblypath = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe
+Removing EventLog source SBSWDDListenerService.
+Service SBSWDDListenerService is being removed from the system...
+Service SBSWDDListenerService was successfully removed from the system.
+Installing assembly 'D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.InstallLog
+   assemblypath = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe
+Installing service CDSWDXListenerService...
+Service CDSWDXListenerService has been successfully installed.
+Creating EventLog source CDSWDXListenerService in log Application...
+Committing assembly 'D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.InstallLog
+   assemblypath = D:\Libraries\Development\ASBListener\CDSWDXListener\CDSWDXListener\bin\Debug\CDSWDXListener.exe
